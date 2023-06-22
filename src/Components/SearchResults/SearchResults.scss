@@ -1,0 +1,15 @@
+.results {
+    width: 60%;
+    margin: 0 auto;
+    .result {
+        margin: 2rem 0;
+        border: 1px solid black;
+        border-radius: 8px;
+        padding: 1rem;
+        .link {
+            text-align: right;
+            a {color: black;
+            }
+        }
+    }
+}
